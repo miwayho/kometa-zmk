@@ -34,7 +34,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "paste";
             #binding-cells = <0>;
-            bindings = <&kp V>, <&kp INSERT>;
+            bindings = <&kp V>, <&kp K_PASTE>;
         };
     };
 
